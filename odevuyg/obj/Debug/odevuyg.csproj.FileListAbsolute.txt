@@ -1,0 +1,15 @@
+C:\Users\SAİT\source\repos\odevuyg\bin\Debug\odevuyg.exe.config
+C:\Users\SAİT\source\repos\odevuyg\bin\Debug\odevuyg.exe
+C:\Users\SAİT\source\repos\odevuyg\bin\Debug\odevuyg.pdb
+C:\Users\SAİT\source\repos\odevuyg\bin\Debug\EntityFramework.dll
+C:\Users\SAİT\source\repos\odevuyg\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAİT\source\repos\odevuyg\bin\Debug\EntityFramework.xml
+C:\Users\SAİT\source\repos\odevuyg\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAİT\source\repos\odevuyg\obj\Debug\odevuyg.csproj.AssemblyReference.cache
+C:\Users\SAİT\source\repos\odevuyg\obj\Debug\odevuyg.Form1.resources
+C:\Users\SAİT\source\repos\odevuyg\obj\Debug\odevuyg.Properties.Resources.resources
+C:\Users\SAİT\source\repos\odevuyg\obj\Debug\odevuyg.csproj.GenerateResource.cache
+C:\Users\SAİT\source\repos\odevuyg\obj\Debug\odevuyg.csproj.CoreCompileInputs.cache
+C:\Users\SAİT\source\repos\odevuyg\obj\Debug\odevuyg.csproj.Up2Date
+C:\Users\SAİT\source\repos\odevuyg\obj\Debug\odevuyg.exe
+C:\Users\SAİT\source\repos\odevuyg\obj\Debug\odevuyg.pdb
